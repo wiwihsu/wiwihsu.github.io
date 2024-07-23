@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on 小徐之家</title>
+    <link>https://wiwihsu.github.io/blog/</link>
+    <description>Recent content in blog on 小徐之家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    <atom:link href="https://wiwihsu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://wiwihsu.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://wiwihsu.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://wiwihsu.github.io/blog/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wiwihsu.github.io/blog/test2/</guid>
+      <description>Hello print&amp;#34;hello&amp;#34; print&amp;#34;hello&amp;#34; print&amp;#34;hello&amp;#34; </description>
+    </item>
+    <item>
+      <title>徐薇的第一份文章</title>
+      <link>https://wiwihsu.github.io/blog/%E5%BE%90%E8%96%87%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wiwihsu.github.io/blog/%E5%BE%90%E8%96%87%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E6%96%87%E7%AB%A0/</guid>
+      <description>hello world&#xA;我是徐薇&#xA;一級標題 二級標題 我很可愛，我喜歡學習&#xA;阿柴 狗 dog 可愛 hello hoho how are you hello</description>
+    </item>
+  </channel>
+</rss>
